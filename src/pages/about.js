@@ -49,7 +49,7 @@ export default function About() {
         </div>
         <a
           className="relative m-auto flex w-max cursor-pointer items-center space-x-4 rounded-lg border bg-slate-200 p-2 px-10"
-          href={'https://drive.google.com/file/d/1y07DZdv7oPGucnDmmwLa_DWzNCjbxTyY/view'}
+          href={'http://resume-thirumalai.vercel.app/'}
           target={'_blanck'}
           rel="noreferrer"
         >
