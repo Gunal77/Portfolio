@@ -6,7 +6,7 @@ export default function Footer() {
       <div>Created by Thirumalai</div>
       <div>
         <a
-          href="https://github.com/daigavane70/react-porfolio"
+          href="https://github.com/Gunal77/Portfolio"
           target={'_blank'}
           rel="noreferrer"
           className="text-cyan-500"
